@@ -24,9 +24,9 @@
 ---
 
 ### 🌐 Find Me Elsewhere:
-[![Instagram Badge](https://img.shields.io/badge/-@sebastian._dev_-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sebastian._dev_)  
-[![LinkedIn Badge](https://img.shields.io/badge/-Ian-Sebastian-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ian-Sebastian)  
-[![Portfolio Badge](https://img.shields.io/badge/-Dr-Sebastian?style=flat&logo=google-chrome&logoColor=white)](https://drsebastian.carrd.co)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sebastian._dev_)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ian-Sebastian)  
+[![Portfolio Badge](https://img.shields.io/badge/-Carrd?style=flat&logo=google-chrome&logoColor=white)](https://drsebastian.carrd.co)
 
 ---
 
